@@ -36,6 +36,10 @@ Understanding these patterns allows travel companies to:
 
 ## Tools & Libraries
 - **Software**: Jupyter Notebook, PowerPoint/Google Slides
+  
 - **Languages**: Python
+  
 - **Libraries**: `pandas`, `numpy`, `seaborn`, `matplotlib`
+  
+- https://github.com/bookingcom/ml-dataset-mdt : dataset is used. 
 
