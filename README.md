@@ -21,7 +21,7 @@ Understanding these patterns allows travel companies to:
 
 
 ## Repository Contents
--`final.ipynb` : Jupyter Notebook containing the full analysis, including data loading, cleaning, visualization, and results. 
+- `final.ipynb` : Jupyter Notebook containing the full analysis, including data loading, cleaning, visualization, and results. 
 
 - `train_set.csv` : dataset that needs to be cleaned for analysis
   
