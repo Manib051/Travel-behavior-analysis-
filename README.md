@@ -18,15 +18,20 @@ Understanding these patterns allows travel companies to:
 - **Support hospitality providers** (e.g., extended-stay deals for regions with long trips).
 - **Identify high-value affiliates** driving longer bookings.
 
----
+
 
 ## Repository Contents
-| `final.ipynb` | Jupyter Notebook containing the full analysis, including data loading, cleaning, visualization, and results. |
-| `train_set.csv` | dataset that needs to be cleaned for analysis
-| `train_set_cleaned.csv` | Cleaned dataset used for analysis (travel booking data with check-in/out dates, countries, devices, affiliates, etc.). |
-| `Travel_Behavior_Analysis_Presentation.pptx` | Slides summarizing project purpose, methodology, results, and future work |
-| `README.md` | This file. Provides overview, purpose, and file descriptions. |
-| `Travel Data analysis summary.docx` | One-page written summary of tools, questions, insights, recommendations, and future work. |
+-`final.ipynb` : Jupyter Notebook containing the full analysis, including data loading, cleaning, visualization, and results. 
+
+- `train_set.csv` : dataset that needs to be cleaned for analysis
+  
+- `train_set_cleaned.csv` :  Cleaned dataset used for analysis (travel booking data with check-in/out dates, countries, devices, affiliates, etc.).
+  
+- `Travel_Behavior_Analysis_Presentation.pptx` : Slides summarizing project purpose, methodology, results, and future work.
+  
+- `README.md` : This file. Provides overview, purpose, and file descriptions.
+  
+- `Travel Data analysis summary.docx` : One-page written summary of tools, questions, insights, recommendations, and future work. 
 
 
 ## Tools & Libraries
